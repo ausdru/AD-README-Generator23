@@ -34,6 +34,7 @@
   - [Testing](#testing)
   - [Questions](#questions)
   - [Contact](#contact)
+  - [Demo](#demo)
 
   ## Installation:
   * Step One: 'git clone' the repo into your local system so you have the Node project on your computer. 
@@ -42,12 +43,18 @@
 
   ## Usage:
   You use this application by answering the prompts given in the terminal, and at the end of the prompts, a README file is generated to be used!
+  ![Screenshot1](./assets/ss1.PNG)
+  ![Screenshot2](./assets/ss2.PNG)
 
   ## Contributing:
   N/A
 
   ## Testing:
+  N/A
 
   ## Questions:
   If you have any questions, feel free to contact me at austindrury@live.com.
   GitHub Profile: https://github.com/ausdru
+
+  ## Demo:
+  ***INSERT LINK TO DEMO VIDEO HERE**

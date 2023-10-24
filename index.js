@@ -46,6 +46,11 @@ const questions = [
         message: "Are there any other contributors for this project?",
         name: "contributing",
     },
+    {
+        type: "input",
+        message: "Is there any testing required for this application?",
+        name: "testing",
+    },
 
 ]
 
