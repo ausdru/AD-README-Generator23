@@ -67,7 +67,7 @@ function init() {
     .prompt(questions)
     .then((data) => {
         const readmeContent = generateMarkdown.generateMarkdown(data)
-        const fileName = 'README.md'
+        const fileName = 'GeneratedREADME.md'
         writeToFile(fileName, readmeContent)
     })
 }
