@@ -37,4 +37,5 @@
   GitHub Profile: https://github.com/ausdru
 
   ## Demo:
-  ***INSERT LINK TO DEMO VIDEO HERE**
+  Feel free to watch the demonstration video below!
+  https://drive.google.com/file/d/1UBxxy03I1ogHNeTbYvZ3r2mGfgAbNbIB/view?pli=1
